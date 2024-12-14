@@ -1,0 +1,71 @@
+/* Detail.css */
+.member-detail-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #004d4d;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  font-family: Arial, sans-serif;
+}
+
+.member-detail-header {
+  text-align: center;
+  border-bottom: 1px solid #008080;
+  padding-bottom: 20px;
+}
+
+.member-detail-header h2 {
+  font-size: 28px;
+  margin: 0;
+}
+
+.member-detail-header .party {
+  font-size: 18px;
+  color: #80e5e5;
+  margin: 10px 0 20px;
+}
+
+.member-detail-body {
+  margin-top: 20px;
+}
+
+.member-detail-body h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #80e5e5;
+}
+
+.member-detail-body p {
+  margin: 10px 0;
+}
+
+.member-detail-body strong {
+  color: #80e5e5;
+}
+
+.back-link {
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #80e5e5;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.filter-button {
+  padding: 10px 20px;
+  background-color: #008080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.filter-button:hover {
+  background-color: #00cccc;
+}

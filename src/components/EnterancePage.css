@@ -1,0 +1,87 @@
+.entrance-container {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .entrance-header {
+    background-color: #007bff;
+    color: white;
+    padding: 30px 0;
+  }
+  
+  .entrance-header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .entrance-header p {
+    font-size: 18px;
+  }
+  
+  .info-section {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+    gap: 20px;
+  }
+  
+  .info-box {
+    text-align: center;
+    width: 250px;
+  }
+  
+  .info-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .features-section {
+    background-color: #f8f9fa;
+    padding: 30px 20px;
+    margin: 40px 0;
+  }
+  
+  .features-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .features-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .features-list li {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .enter-button-container {
+    margin: 40px 0;
+  }
+  
+  .enter-button {
+    background-color: #007bff;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .enter-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .entrance-footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    font-size: 14px;
+  }
